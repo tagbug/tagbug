@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🌱 Continuous learning...
+- Here is my Blog.[https://tagbug.gitlab.io](https://tagbug.gitlab.io)
 
 <!--
 **tagbug/tagbug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
