@@ -6,13 +6,12 @@
 [![osu!: TagBugOwO](https://img.shields.io/badge/osu!-TagBugOwO-black?logo=osu&logoColor=white&labelColor=FF66AA)](https://osu.ppy.sh/users/12755646)
 [![wakatime](https://wakatime.com/badge/user/d4a8dae0-e066-4754-bf48-2e6622838b84.svg)](https://wakatime.com/@d4a8dae0-e066-4754-bf48-2e6622838b84)
 
-- 🔭 I’m currently studying at college
+- 🧑‍💻 Working on front-end development
 - 🌱 Aimed to FullStack
-- ✨ Like anime/rhythm games(osu!std/mania 4K)/music
-- 🏳️‍🌈 LGBTQIA+ | Non-binary & Pansexuality
+- ✨ Interested in anime/rhythm games(osu!std/mania 4K)/music
+- 🏳️‍🌈 LGBTQIA+ | Non-binary & Pansexuality 🏳️‍⚧️
 - 💬 Ask me about anything, I am happy to help
-- 👀 If you have any questions or suggestions about my repos, please join: https://t.me/+ldEXa7wiv2cwZWVl
-- 📫 Here is my Blog: [https://tagbug.github.io](https://tagbug.github.io) or [https://tagbug.gitlab.io](https://tagbug.gitlab.io)
+- 👀 If you have any questions or suggestions about my repos, please contact me: https://t.me/tag_bug
 
 ## Technology Stack <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30">
 <p>
@@ -136,7 +135,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
   <img align="right" alt="tagbuged@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/maildotru.svg" />
 </a>
 <a href="https://space.bilibili.com/2822332">
-  <img align="right" alt="MykC02" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/bilibili.svg" />
+  <img align="right" alt="Tagbug" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/bilibili.svg" />
 </a>
 <a href="https://osu.ppy.sh/users/12755646">
   <img align="right" alt="TagBugOwO" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/osu.svg" />
