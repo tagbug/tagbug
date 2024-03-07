@@ -2,16 +2,15 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=tagbug.tagbug)
 [![GitHub](https://img.shields.io/badge/dynamic/json?color=blue&label=Github&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dtagbug)](https://github.com/tagbug) 
-[![哔哩哔哩](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fbilibili%2F2822332&query=count&color=282c34&label=%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9&labelColor=FE7398&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAD7ElEQVR4nO2dW9WrMBCFK6ESkFAJSKiESqgEHCABCZWAhEpAAhL2ecik5dDc%2FpXLBDLfWnlqy0xmJ5BMQnq5CIIgCIIgCIIgCIIgCEIBAHQAemYfrgCunD6wAKAHsEKxALgx+bCQD8%2FS9tmgVqeDr1lLigDgZvDhXso+K9TyTBQRwRJ8AHjntl0Flh5QRAQK%2FmKxPeayWx2OXpBNBKiHvi34b7T2MC4pAvW6twR%2FRwkRKPizBN8CgEcuESj4Lwm+BwBjahEk+H8EwJRKhOaCDzW8e1JLfkUUH1NgmR3XmHffHR1l+72BSs8d7w8U+JDAnZERQMcV+CtUi7dNqFqibB4J7vtrq7xKCuAasbTMXCL4T+5aVk6+2xHUrWdhruAR6HIJcOeu2UHI8zyAe2ytWfEdWz9PVvQ8YAmIQ5dDAB9LFsMVAv8oMO2zAGrC5WNIarRiAuKR9jYEd9pY08aa6uUzIHGRdkgKd8pY0yc1WjEBAqypDYoAG0QAZkQAZkQAZkQAZk4vANQenjsSzS3I%2FwcSbXU5jQBUkRtdf4Rar90v8kSv3+I3ffCCSpk8I%2Fw+lgDkdI%2Fv2rEp2CaiWm1AsDQLlDAD+dlFXLMeAaCSeLZdaSFE5VUQNot38cKuEeBgAsSuG0flVZBmEanbXfNQAsS0fgBYIn2fIu3%2FBBMHEyBmDXlFfA8IzeHb+Ems4WAChKykrVA9ZfsQTL57jXzRg4A5wC%2FA8N4ADiZAZwm2XjW75Qh2KOTfA0p4kygPw28OJcCVgn3nDnYo2EwEYRgGH0qAMyICMCMCMCMCMCMCMCMCMCMCfP3qwHDOQ4AAUekTk8FaBRihJnZdYbvtCGC7LvmkM63GjVDINPFrQgCq5ETXfmMzI90FXzPvfqt7x4rEu%2FZaEcCUxFvgz2zO+BUn6UkoaEEAsptiMSX5e8FoRYCN7cVgb4Vq7U%2FH50Pq4JNP7Qiw8UFnJwcK+tXy+Wj6PLEvPgHSHv5UgwA1IQIwwyFAyLJin9RoxYgAzAQIkPwNmf26busC+OIx5TDqo5nDT+F%2FSS%2F9CYzwb+No49zNy2evkYv0LywGGAXUvp6eSneycqOic0w20k7CNgKE7jJunSGLACTCxF27ylmQc98T5MQUH49swd+I0HPXslLKnT0N+wnkrTKi9JZL%2FL9i1SorMmdeQ4TQQ7OFMxIMzGD45w8nUL1im7efENZLJpgPSw0pfz0cdt4U3230Td%2FTvx2R6d2FrHhEWLkq5PELOMsRPHCPnAZGv1xJteL7jbJiaW3sB2nDvPC%2FosSYvjRQz4cJ6n7KO3rYQL7M+L6nVtfDVRAEQRAEQRAEQRAEIZ5%2FSAXmdfXaoQsAAAAASUVORK5CYII%3D&suffix=+%E5%85%B3%E6%B3%A8&cacheSeconds=3600)](https://space.bilibili.com/2822332)
 [![osu!: TagBugOwO](https://img.shields.io/badge/osu!-TagBugOwO-black?logo=osu&logoColor=white&labelColor=FF66AA)](https://osu.ppy.sh/users/12755646)
 [![wakatime](https://wakatime.com/badge/user/d4a8dae0-e066-4754-bf48-2e6622838b84.svg)](https://wakatime.com/@d4a8dae0-e066-4754-bf48-2e6622838b84)
 
-- 🧑‍💻 Working on front-end development
+- 🧑‍💻 Working on Front-End development
 - 🌱 Aimed to FullStack
-- ✨ Interested in anime/rhythm games(osu!std/mania 4K)/music
+- ✨ Interested in Films / Music / Postmodern Philosophy / and Contemporary Art
 - 🏳️‍🌈 LGBTQIA+ | Non-binary & Pansexuality 🏳️‍⚧️
 - 💬 Ask me about anything, I am happy to help
-- 👀 If you have any questions or suggestions about my repos, please contact me: https://t.me/tag_bug
+- 👀 If you have any questions or suggestions about me or my repos, please contact: https://t.me/tag_bug
 
 ## Technology Stack <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30">
 <p>
@@ -133,9 +132,6 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 </a>
 <a href="mailto:tagbuged@gmail.com">
   <img align="right" alt="tagbuged@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/maildotru.svg" />
-</a>
-<a href="https://space.bilibili.com/2822332">
-  <img align="right" alt="Tagbug" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/bilibili.svg" />
 </a>
 <a href="https://osu.ppy.sh/users/12755646">
   <img align="right" alt="TagBugOwO" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/osu.svg" />
