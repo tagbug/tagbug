@@ -8,7 +8,7 @@
 - 🧑‍💻 Working on Front-End development
 - 🌱 Aimed to FullStack
 - ✨ Interested in Films / Music / Postmodern Philosophy / and Contemporary Art
-- 🏳️‍🌈 LGBTQIA+ | Non-binary & Pansexuality 🏳️‍⚧️
+- 🏳️‍🌈 LGBTQIA+ | Non-binary & Pansexuality
 - 💬 Ask me about anything, I am happy to help
 - 👀 If you have any questions or suggestions about me or my repos, please contact: https://t.me/tag_bug
 
