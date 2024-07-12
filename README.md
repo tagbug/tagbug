@@ -2,15 +2,13 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=tagbug.tagbug)
 [![GitHub](https://img.shields.io/badge/dynamic/json?color=blue&label=Github&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dtagbug)](https://github.com/tagbug) 
-[![osu!: TagBugOwO](https://img.shields.io/badge/osu!-TagBugOwO-black?logo=osu&logoColor=white&labelColor=FF66AA)](https://osu.ppy.sh/users/12755646)
 [![wakatime](https://wakatime.com/badge/user/d4a8dae0-e066-4754-bf48-2e6622838b84.svg)](https://wakatime.com/@d4a8dae0-e066-4754-bf48-2e6622838b84)
 
 - 🧑‍💻 Working on Front-End development
 - 🌱 Aimed to FullStack
-- ✨ Interested in Films / Music / Postmodern Philosophy / and Contemporary Art
+- ✨ Interested in Art / Psychology / Philosophy
 - 🏳️‍🌈 LGBTQIA+ | Non-binary & Pansexuality
 - 💬 Ask me about anything, I am happy to help
-- 👀 If you have any questions or suggestions about me or my repos, please contact: https://t.me/tag_bug
 
 ## Technology Stack <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30">
 <p>
@@ -128,7 +126,4 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 </a>
 <a href="mailto:tagbuged@gmail.com">
   <img align="right" alt="tagbuged@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/maildotru.svg" />
-</a>
-<a href="https://osu.ppy.sh/users/12755646">
-  <img align="right" alt="TagBugOwO" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/osu.svg" />
 </a>
