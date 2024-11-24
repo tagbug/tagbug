@@ -75,13 +75,18 @@ Sunday                   36 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        46 mins             ███████████████████░░░░░░   75.61 % 
+TypeScript               8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+C++                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Java                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  57 mins             ███████████████████████░░   93.42 % 
+IntelliJ IDEA            4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 1 min          █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -101,7 +106,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tagbug/tagbug/master/assets/bar_graph.png)
 
 
- Last Updated on 23/11/2024 21:10:10 UTC
+ Last Updated on 24/11/2024 21:10:03 UTC
 <!--END_SECTION:waka-->
 </details>
 
