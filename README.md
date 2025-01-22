@@ -75,18 +75,13 @@ Sunday                   36 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     2 hrs 22 mins       ███████████████░░░░░░░░░░   61.96 % 
-JavaScript               50 mins             █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
-XML                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           2 hrs 55 mins       ███████████████████░░░░░░   76.46 % 
-VS Code                  53 mins             ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 49 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -106,7 +101,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tagbug/tagbug/master/assets/bar_graph.png)
 
 
- Last Updated on 21/01/2025 21:10:01 UTC
+ Last Updated on 22/01/2025 21:09:12 UTC
 <!--END_SECTION:waka-->
 </details>
 
