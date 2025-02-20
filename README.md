@@ -75,15 +75,13 @@ Sunday                   36 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-SSH Config               26 mins             ██████████████████████░░░   87.11 % 
-JSON                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-Other                    1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -103,7 +101,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tagbug/tagbug/master/assets/bar_graph.png)
 
 
- Last Updated on 19/02/2025 21:10:39 UTC
+ Last Updated on 20/02/2025 21:10:03 UTC
 <!--END_SECTION:waka-->
 </details>
 
