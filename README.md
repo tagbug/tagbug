@@ -75,15 +75,13 @@ Sunday                   36 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     23 mins             ████████████████████████░   95.55 % 
-HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -103,7 +101,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tagbug/tagbug/master/assets/bar_graph.png)
 
 
- Last Updated on 30/04/2025 21:11:39 UTC
+ Last Updated on 01/05/2025 21:11:29 UTC
 <!--END_SECTION:waka-->
 </details>
 
