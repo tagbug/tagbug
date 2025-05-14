@@ -75,13 +75,18 @@ Sunday                   36 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 hrs               ██████████████░░░░░░░░░░░   56.24 % 
+Java                     45 mins             █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
+PlantUML                 38 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 3 mins        █████████████████████░░░░   85.87 % 
+Cursor                   30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -101,7 +106,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tagbug/tagbug/master/assets/bar_graph.png)
 
 
- Last Updated on 13/05/2025 21:11:30 UTC
+ Last Updated on 14/05/2025 21:10:30 UTC
 <!--END_SECTION:waka-->
 </details>
 
